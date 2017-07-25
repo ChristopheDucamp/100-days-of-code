@@ -18,11 +18,12 @@
 7. **Tweetez votre progrès chaque jour en utilisant le hashtag #100DaysOfCode.**
 8. Suivez le bot twitter [100DaysOfCode](https://twitter.com/_100DaysOfCode) qui retweete ce qui contient le hashtag #100DaysOfCode. 
 C'est un moyen génial pour rester motivé et participer à la communauté. Merci à [@amanhimself](https://twitter.com/amanhimself) de l'avoir créé !
-9. Important : (regardez le point No.4 au-dessus pour une règle spécifique là-dessus). Encouragez les autres qui font le même défi sur Twitter ou ailleurs - en leur donnant des coups de pouces quand ils postent des mises à jour sur leurs progressions, en les aidant quand ils rencontrent des difficultés. De ce fait, nous ferons grandir une communauté aidante et efficace qui mènera à un taux de réussite plus grand pour chaque personne engagée. 
-10. Il est également plus probable que vous adhérerez à votre propre engagement, étant donné que vous vous familiariserez tout de suite avec deux ou trois personnes (ou plus).
-10. Si vous trouvez une ressource excellente et utile qui pourraient bénéficier aux autres, soumettez une pull request au dépôt. Ou  tweetez simplement (voir l'info ci-dessous).
+9. Important : (regardez le point No.4 au-dessus pour une règle spécifique là-dessus). Encouragez les autres qui font le même défi sur Twitter ou ailleurs - 
+en leur donnant des coups de pouces quand ils postent des mises à jour sur leurs progressions, en les aidant quand ils rencontrent des difficultés. 
+De ce fait, nous ferons grandir une communauté aidante et efficace. qui mènera à un taux de réuissite plus grand pour chaque personne engagée. 
+It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
 10. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
 
 ## Note
-* Si vous avez des questions ou des idées sur 100DaysOfCode (ou d'autres idées), n'hésitez pas à me contacter sur Twitter: [@ xtof_party](https://twitter.com/xtof_party)
-* Si vous aimez ce repo et le trouve utile, cliquez sur l'étoile &#9733; (elle est en haut à droite de la page) :)
+* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
+* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
