@@ -19,17 +19,16 @@ et [résolutions indieweb 2017](https://indieweb.org/2017-01-01-commitments#Chri
 
 ### Pourquoi je signe 
 
-Je rejoins donc le mouvement #100DaysOfCode pour des raisons psychologiques bien connues ...
-
 ![7 bonnes habitudes](https://monosnap.com/file/xKFYURjwzehl33RlFfmky8hyHrpwms.png)
- 
-Mes motivations sont plurielles. Selon mon humeur du jour, ce pourrait être :  
+
+	Outre ces 7 bonnes habitudes, mes motivations essentielles pour rejoindre #100DaysOfCode sont par ordre de priorité :
 
 1. **[Dogfooding](https://indieweb.org/dogfood-fr)** : monter en compétences sur le combo HTML/CSS sur mon site personnel.
 2. **Rester concentré** et maintenir une routine pour rebondir sur mes engagements 2017. À savoir revoir de fond en comble mon vieux site web personnel (brisé à cette heure, motorisation Jekyll).
 2. **M'imposer du temps** pour sortir de ma zone de confort. Faire mes premiers pas durant ce premier Round sur JavaScript et un langage de programmation (Golang ?) afin de mieux communiquer avec les devs des communautés indieweb et jamstatic.
 3. **Pratiquer GitHub**. Etre à l'aise avec git, pratiquer les pull request, aider, collaborer. Bref *ne pas rester seul* dans l'effort. 
 4. ... pour finir une **motivation sociale**. Dans la vraie vie, je  vis à Paris et me sens prêt à aider et découvrir de nouveaux talents prêts à rejoindre le défi en langue française :) 
+
 
 #### Statut technique du jour : 
 
@@ -45,18 +44,25 @@ Mes motivations sont plurielles. Selon mon humeur du jour, ce pourrait être :
 
 ### D2 : mardi 25 juillet 
 
-Départ demain pour une semaine en Basse-Autriche. Prévoyant de travailler sans accès au réseau, j'ai repris les fondamentaux de Git et committerai donc "hors ligne".
+Départ demain pour une semaine en Basse-Autriche. 
+Prévoyant de travailler sans accès au réseau, j'ai repris les fondamentaux de Git et committerai donc "hors ligne".
 
-Enregistré un compte sur freecodecamp et parcouru les tutoriels sur les photos de chat. Initialisé sur ma machine locale 2 repos qui seront accessibles hors-ligne. 
-
-
+- Enregistré un compte sur freecodecamp et [parcouru les tutoriels sur les photos de chat](https://www.freecodecamp.org/challenges/create-a-set-of-checkboxes) jusqu'à l'étape 36. 
+- Initialisé sur ma machine locale 2 repos qui seront accessibles pour coder/committer hors-ligne si je ne trouve pas d'accès wifi public.
 - GolangTraining + HTML (forkés chez Tod Mc Leod)
 
 #### Production du jour 
 
-Rien. Assimilé et révisé quelques fondamentaux git pour paramétrer, pousser et raffiner ce repo #100DaysOfCode (ébauche de traduction en français). Désolé pour l'erreur de commit mal dirigé  sur le repo original.
+Rien concernant les projets. Assimilé et révisé quelques fondamentaux git pour paramétrer, pousser et raffiner ce repo #100DaysOfCode (ébauche de traduction en français). 
+
+
+Encore désolé pour l'erreur de commit mal dirigé  sur le repo original.
 
 Merci d'avoir lu et à demain.
+
+[xtof_party](https://twitter.com/xtof_party) 
+
+
 
 ### D3 (demain) : mercredi 26 juillet 
 
