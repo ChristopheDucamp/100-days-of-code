@@ -4,6 +4,6 @@ Le journal de mon challenge #100DaysOfCode. Démarré le [lundi 24 juillet 2017]
 ## Log
 
 ### R1D1 
-Démarré une app météo. Travaillé sur une ébauche du layout, me suis battu avec l'API OpenWeather http://www.example.com
+Démarré une app météo. Travaillé sur une ébauche du layout, me suis battu avec l'API OpenWeather http://www.exemple.com
 
 ### R1D2
